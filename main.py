@@ -12,9 +12,12 @@ with col2:
     Hi, I'm the TheZOnn
     """
     st.title(title)
-    content = """
+    image_stucker = """
     I also go by the names: Verizon, Verizonn and Zazoon.
     I'm a little goober that goofs around the internet sometimes. I created this website so it could be some random 
     portfolio that I doubt I would use in the future.
     """
-    st.info(content)
+    st.info(image_stucker)
+
+mainbody1 = """Do I know you? nuh uh"""
+st.write(mainbody1)
