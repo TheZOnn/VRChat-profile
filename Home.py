@@ -30,12 +30,12 @@ A little collage of some noteworthy VRChat moments with me and some cool people
 col3, col4 = st.columns(2)
 
 with col3:
-    st.image('vrmoments/vr1.png')
-    st.image('vrmoments/vr2.png')
+    st.image('vrmoments/vr1.PNG')
+    st.image('vrmoments/vr2.PNG')
 
 with col4:
-    st.image('vrmoments/vr3.png', width=442)
-    st.image('vrmoments/vr4.png', width=442)
+    st.image('vrmoments/vr3.PNG', width=442)
+    st.image('vrmoments/vr4.PNG', width=442)
 
 
 
